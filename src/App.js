@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { positions } from "@mui/system";
+import { useEffect } from "react";
+import Navbarr from "./componet/navbar";
+import MainPage from "./pages/landingPage";
 
 function App() {
+  // useEffect(() => {
+  //   var navbar = document.getElementById("nav-bar");
+   
+  //   window.onscroll = () => {
+  //     if (window.onscroll > 22) {
+  //       navbar.classList.add("scrolled");
+  //       console.log(navbar)
+  //     } else {
+  //       navbar.classList.add("scrolled");
+  //     }
+  //   };
+  // }, [onscroll]);
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="main-page">
+      <Navbarr />
+      <MainPage />
     </div>
   );
 }

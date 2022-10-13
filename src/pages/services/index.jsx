@@ -23,6 +23,21 @@ const Services = () => {
             Web apps will be responsive to make it user friendly.
           </p>
         </div>
+
+        <div className="shadoww p-3">
+          <div className="">
+            {/* <img src="/images/icons8-backend-development-48.png" alt="" /> */}
+            <DeveloperModeIcon/>
+          </div>
+          <p className="service-header my-3"> Mobile Application Development</p>
+          <p>
+            I develop excellent UI with Flutter, Java and other relevant frame
+            works, I pay special attention to UI for better user experience and
+          Mobile apps will be responsive to make it user friendly.
+          </p>
+        </div>
+
+
         <div className="shadoww p-3">
           <div className="">
             <img src="/images/icons8-backend-development-48.png" alt="" />

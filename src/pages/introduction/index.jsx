@@ -17,7 +17,7 @@ const Introduction = () => {
         <h1 className="mb-2">
           <strong>OKEREKE Juliet Nene</strong>
         </h1>
-        <h3 className="mb-2">Fullstack Web developer</h3>
+        <h3 className="mb-2">Fullstack Developer</h3>
         <p className="pt-3">
         i am an innovative software developer with experience in application design, 
         architectural road map, development, testing and production level deployment of applications.

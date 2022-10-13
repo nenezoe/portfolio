@@ -45,7 +45,7 @@ const Works = () => {
       </div>
 
       <div className="d-flex justify-content-center mt-4 ">
-        <a href="https://github.com/abjerry97" className="works-button">
+        <a href="https://github.com/nenezoe" className="works-button">
           <span>View all works</span> <ArrowForwardIcon />
         </a>
       </div>

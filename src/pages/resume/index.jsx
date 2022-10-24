@@ -19,9 +19,23 @@ const Resume = () => {
 
               <li className="experience-card">
                 <div className="side-line-extended"></div>
+                <h5 className="mb-2">Capture Solution, </h5>
+                <h6> — Software Engineer</h6>
+                <span className="fz-16-bld mb-3">July 2022 - Present</span>
+
+                <p className="mt-3">
+                  Built Software application for the company using flutter,
+                  Maintain already existing application for the company in java,
+                  Built software application for farmers.
+                </p>
+              </li>
+
+
+              <li className="experience-card">
+                <div className="side-line-extended"></div>
                 <h5 className="mb-2">Xplore Multidynamics, Ile-Ife</h5>
                 <h6> — Full Stack Developer</h6>
-                <span className="fz-16-bld mb-3">April 2020 - PRESENT</span>
+                <span className="fz-16-bld mb-3">April 2020 - May 2022</span>
 
                 <p className="mt-3">
                   Built Software products for restaurants to connect with
@@ -36,7 +50,7 @@ const Resume = () => {
                 <div className="side-line-extended"></div>
                 <h5 className="mb-2">Freelancer</h5>
                 <h6> - Fullstack Developer</h6>{" "}
-                <span className="fz-16-bld mb-3"> November 2021 - PRESENT</span>
+                <span className="fz-16-bld mb-3"> November 2021 - May 2022</span>
                 <p className="mt-3 ">
                   Working as a Freelancer, I Convert Figma designs to real
                   scalable websites, Developing frontend designs using React and

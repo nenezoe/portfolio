@@ -42,7 +42,7 @@ const Navbarr = () => {
       <Nav.Link href="#contact">Contact</Nav.Link>
     </Nav>
     <Nav>
-      <Nav.Link href="https://docs.google.com/document/d/14jhZuL_oZSdtOqJlNjRlw8fvpx82iK_i/edit" className="download-resume shadow">
+      <Nav.Link href="https://drive.google.com/drive/my-drive" className="download-resume shadow">
       download cv
       </Nav.Link>
     </Nav>

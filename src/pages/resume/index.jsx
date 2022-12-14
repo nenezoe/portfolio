@@ -30,6 +30,18 @@ const Resume = () => {
                 </p>
               </li>
 
+              <li className="experience-card">
+                <div className="side-line-extended"></div>
+                <h5 className="mb-2">Gloed, </h5>
+                <h6> — Frontend Engineer</h6>
+                <span className="fz-16-bld mb-3">September 2022 - December 2022</span>
+
+                <p className="mt-3">
+                  Built Software application for the company using React, Nextjs,
+                  Built software application for Educating people on sql and excell.
+                </p>
+              </li>
+
 
               <li className="experience-card">
                 <div className="side-line-extended"></div>

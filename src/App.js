@@ -19,6 +19,10 @@ function App() {
  
   return (
     <div className="main-page">
+       <Helmet>
+                <meta charSet="utf-8" />
+                <title>Nene's Resume</title>
+            </Helmet>
       <Navbarr />
       <MainPage />
     </div>

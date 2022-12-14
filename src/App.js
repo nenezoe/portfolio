@@ -2,6 +2,7 @@ import { positions } from "@mui/system";
 import { useEffect } from "react";
 import Navbarr from "./componet/navbar";
 import MainPage from "./pages/landingPage";
+import {Helmet} from "react-helmet";
 
 function App() {
   // useEffect(() => {
